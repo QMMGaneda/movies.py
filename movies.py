@@ -29,3 +29,9 @@ def delete_movie(index):
 
 if __name__ == '__main__':
     app.run()
+
+# {
+#     "name":"Iron Man 3",
+#     "casts":["Tony Stark", "Happy", "Jarvis", "Pepper Pots", "Rodey"],
+#     "genre":["Action", "Sci Fi", "Adventure", "Triller"]
+# }
